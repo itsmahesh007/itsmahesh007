@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @itsmahesh007
 - 👀 I’m interested in exploring coding
 - 🌱 I’m currently learning computer engineering.
-- 💞️ I’m looking to collaborate on pyhton projects
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 Reach me through my email itsmahesh001@gmail.com
 
 <!---
